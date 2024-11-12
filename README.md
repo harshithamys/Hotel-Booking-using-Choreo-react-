@@ -9,9 +9,7 @@ Guest & Room Tracking: Monitors guest check-in/check-out times and room occupanc
 Billing & Payments: Integrated billing system supporting multiple payment options, automated receipts, and transaction history.
 Notifications: Real-time notifications for guests and staff, powered by Choreo’s event-driven architecture.
 This combination of React, MongoDB, and Choreo offers a scalable, user-friendly, and automated solution for hotel management, enhancing the overall guest experience and operational efficiency.
-<img src="/Users/harshita/Documents/GitHub/Hotel-Booking-using-Choreo-react-/Screenshot 2024-07-23 at 1.06.31 AM.png">
 
-<img src="/Users/harshita/Documents/GitHub/Hotel-Booking-using-Choreo-react-/Screenshot 2024-07-23 at 1.06.16 AM.png">
 
-![screenshot](Screenshot 2024-07-23 at 1.06.16 AM.png)
-
+<img width="1470" alt="Screenshot 2024-07-23 at 1 06 31 AM" src="https://github.com/user-attachments/assets/f35fd2c4-6ebc-431c-92c1-c91c2d8aa3e9">
+<img width="1470" alt="Screenshot 2024-07-23 at 1 06 16 AM" src="https://github.com/user-attachments/assets/070f3c00-4bfe-461a-856b-8f6bc78defaa">
