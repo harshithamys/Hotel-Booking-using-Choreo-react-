@@ -12,3 +12,6 @@ This combination of React, MongoDB, and Choreo offers a scalable, user-friendly,
 <img src="/Users/harshita/Documents/GitHub/Hotel-Booking-using-Choreo-react-/Screenshot 2024-07-23 at 1.06.31 AM.png">
 
 <img src="/Users/harshita/Documents/GitHub/Hotel-Booking-using-Choreo-react-/Screenshot 2024-07-23 at 1.06.16 AM.png">
+
+![screenshot](/Hotel-Booking-using-Choreo-react-/Screenshot 2024-07-23 at 1.06.16 AM.png)
+
