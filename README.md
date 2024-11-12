@@ -1,4 +1,4 @@
-This Hotel Management App leverages React for a responsive and interactive user interface, allowing hotel staff and guests to navigate smoothly through various services. The app uses MongoDB as the backend database to store and manage guest information, booking details, room availability, and transaction records, ensuring fast data access and reliable storage.
+This Hotel Reservation Management App leverages React for a responsive and interactive user interface, allowing hotel staff and guests to navigate smoothly through various services. The app uses MongoDB as the backend database to store and manage guest information, booking details, room availability, and transaction records, ensuring fast data access and reliable storage.
 
 Using Choreo for serverless orchestration, the app handles various backend operations, including booking confirmations, payment processing, and real-time updates without the need for complex server management. Choreo's integration enables scalable microservices, allowing the hotel to automate workflows and notifications seamlessly, from booking confirmations to check-out alerts.
 
